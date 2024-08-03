@@ -1,25 +1,27 @@
 <h1 align="center">Hi 👋, I'm Sai Anurag</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">Senior Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saianurag2" alt="saianurag2" /> </p>
 
-- 🔭 I’m currently working on [Network Management Portal](https://github.com/saianurag2/ui_cnms)
+- 🔭 I’m currently working at [https://www.autorabit.com](Autorabit) as a Senior Software Developer.
+  
+- 👨‍💻 My Autorabit github account is [https://github.com/anurag-ar](https://github.com/anurag-ar)
 
-- 🌱 I’m currently learning **REST API, Javascript**
+- 🌱 I’m currently learning System Design and Spring Security
 
-- 👨‍💻 All of my projects are available at [https://github.com/saianurag2](https://github.com/saianurag2)
+- 👨‍💻 My projects are available at [https://github.com/saianurag2](https://github.com/saianurag2)
 
-- 💬 Ask me about **Java, Python, MySQL**
+- 💬 Ask me about **Java, Spring Boot, AWS, SQL**
 
 - 📫 How to reach me **varanasi.saianurag2@gmail.com**
 
 - ⚡ Fun fact **Programmer who doesn't drink coffee :)**
 
 <p align="center"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></p><p align="center"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="spring-boot" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg alt="postgres" width="40" height="40"/></p><p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api?username=saianurag2&show_icons=true" alt="saianurag2" /> </p>
 
 <p align="center">
