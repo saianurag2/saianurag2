@@ -1,21 +1,16 @@
-<h1 align="center">Hi 👋, I'm Sai Anurag</h1>
-<h3 align="center">Senior Software Developer from India</h3>
+<h1 align="center">Hi, I'm Sai Anurag</h1>
+<h3 align="center">Senior Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saianurag2" alt="saianurag2" /> </p>
 
-- 🔭 I’m currently working at [Autorabit](https://www.autorabit.com) as a Senior Software Developer.
-  
-- 👨‍💻 My Autorabit github account is [anurag-ar](https://github.com/anurag-ar)
+- 🔭 I’m currently working at [Maantic](https://maantic.com/about-us/) as a Senior Developer.
 
-- 🌱 I’m currently learning System Design and Spring Security
+- 🌱 I’m currently learning System Design.
 
-- 👨‍💻 My projects are available at [saianurag2](https://github.com/saianurag2)
-
-- 💬 Ask me about **Java, Spring Boot, AWS, SQL**
+- 💬 Ask me about **Java, Spring Boot, AWS, Docker, SQL**
 
 - 📫 How to reach me **varanasi.saianurag2@gmail.com**
 
-- ⚡ Fun fact **Programmer who doesn't drink coffee :)**
 
 <p align="center"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="40" height="40"/>
