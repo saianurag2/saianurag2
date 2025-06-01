@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java, Spring Boot, AWS, Docker, SQL**
 
-- 📫 How to reach me **varanasi.saianurag2@gmail.com**
+- 📫 How to reach me **varanasi [.] saianurag2 [@] gmail [.] com**
 
 
 <p align="center"> 
